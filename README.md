@@ -78,7 +78,7 @@ Python
 
 # Disclaimer
 
-This repository is intended solely to demonstrate technical skills and bioinformatics workflows. Project-specific datasets, metadata, and confidential research findings are intentionally omitted. The analytical pipeline presented here reflects general microbiome analysis practices and does not disclose proprietary or unpublished information.
+This repository is intended solely to demonstrate technical skills and workflow.The project-specific datasets, metadata, and confidential research findings are intentionally omitted. The analytical pipeline presented here reflects general microbiome analysis practices and does not disclose proprietary or unpublished information.
 
 
 
